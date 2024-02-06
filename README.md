@@ -6,20 +6,8 @@
 
 ## Мои навыки 🚀
 
-- Python: numpy, pandas, scikit-learn, tensorflow, keras, flask, django, etc.
-- Java: spring boot, hibernate, junit, etc.
-- C#: .NET, ASP.NET, Entity Framework, LINQ, etc.
-- HTML, CSS, JavaScript: bootstrap, jQuery, react, etc.
-- Базы данных: MySQL, MongoDB, PostgreSQL, etc.
-- Инструменты: Git, GitHub, VS Code, PyCharm, Eclipse, etc.
+- HTML, CSS, JavaScript
+- Базы данных: MsSql
+- Инструменты: Git, GitHub, VS Code
 
-## Моя статистика 📊
 
-!Мои статистики GitHub
-
-!Мои топ языки
-
-## Свяжитесь со мной 📫
-
-Вы можете связаться со мной по электронной почте: Danilass89@mail.ru
-Или в !Telegram
