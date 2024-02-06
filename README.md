@@ -11,3 +11,6 @@
 - Инструменты: Git, GitHub, VS Code
 
 
+## Связаться со мой 
+Mail: dslynx@bk.ru
+Telegram: https://t.me/DsLynx
