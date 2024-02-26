@@ -4,5 +4,5 @@
 </div>
 
 ## Связаться со мой 
-Mail: dslynx@bk.ru не надо
+Mail: dslynx@bk.ru лучше не надо
 Telegram: https://t.me/DsLynx можно, если надо
