@@ -5,4 +5,4 @@
 
 ## Связаться со мой 
 Mail: dslynx@bk.ru можно, но лучше не надо
-</br>Telegram: https://t.me/DsLynx можно, если надо
+</br>Telegram: https://t.me/DsLynx можно, если надо)
